@@ -20,3 +20,5 @@
   * #### HP ZBook 17 G6 (Intel i7-9850H 2.60GHz, RAM 32GB, NVIDIA Quadro RTX 4000 GDDR6 8GB)
   * #### NVIDIA Jetson TX2, Xavier (RC Car Control, Server)
   * #### Intel Realsense D435i (Camera + IMU)
+  * #### Lidar (LDS-01)
+  * #### RC Car (NVIDIA Jetson TX2, DC Motor, Servo Motor, Battery, USB3.0 Hub) 
