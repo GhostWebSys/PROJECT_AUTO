@@ -1,4 +1,4 @@
-# PROJECT_AUTO
+# Project Auto Explanation
 * ## We make ADAS.
 
 # Developer
@@ -10,7 +10,6 @@
   
 * ## 안** (Yan)
   * ### Object Detection
-  
   
 # Development Environment
 * ### OS, Simulator(SW)
