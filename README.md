@@ -7,7 +7,7 @@
 * ## 김** (Kim)
   * ### Unity Simulator Map Maker, OpenCV, Lane Detection
 * ## 안** (Yan)
-  * #### Object Detection
+  * ### Object Detection
   
  
 # Development Environment
