@@ -22,6 +22,6 @@
   * #### NVIDIA Jetson TX2, Xavier
   * #### Intel Realsense D435i (Camera + IMU)
   * #### Lidar (LDS-01)
-  * #### RC Car (NVIDIA Jetson TX2, DC Motor, Servo Motor, Battery, USB3.0 Hub) 
+  * #### RC Car (NVIDIA Jetson TX2, DC Motor, Servo Motor, Joystick, Battery, USB3.0 Hub) 
 
 # Reference
