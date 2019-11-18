@@ -3,13 +3,13 @@
 
 # Developer
 * ### 하** (Ha Jae Chang)
-  * ### Project Manager, ROS, Object Detection, RC Car
+  * #### Project Manager, ROS, Object Detection, RC Car
   
 * ### 김** (Kim)
-  * ### Unity Simulator Map Maker, OpenCV, Lane Detection
+  * #### Unity Simulator Map Maker, OpenCV, Lane Detection
   
 * ### 안** (Yan)
-  * ### Object Detection
+  * #### Object Detection
   
 # Development Environment
 * ### OS, Simulator(SW)
