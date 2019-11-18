@@ -2,11 +2,13 @@
 * ## We make ADAS.
 
 # Developer
-* >### 하** (Ha Jae Chang)
-  * ### Project Manager, System Designer, ROS, Object Detection, RC Car
-* ## 김** (Kim)
+* ### 하** (Ha Jae Chang)
+  * ### Project Manager, ROS, Object Detection, RC Car
+  
+* ### 김** (Kim)
   * ### Unity Simulator Map Maker, OpenCV, Lane Detection
-* ## 안** (Yan)
+  
+* ### 안** (Yan)
   * ### Object Detection
   
 # Development Environment
@@ -21,3 +23,5 @@
   * #### Intel Realsense D435i (Camera + IMU)
   * #### Lidar (LDS-01)
   * #### RC Car (NVIDIA Jetson TX2, DC Motor, Servo Motor, Battery, USB3.0 Hub) 
+
+# Reference
