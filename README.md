@@ -9,7 +9,7 @@
 * ### 안현수 (Yan)
   * #### Object Detection
   
-# Make
+# Development Environment
 * ### OS : Ubuntu 18.04 
 * ### ETC : ROS(melodic), C++, Python, OpenCV
 * ### Device : HP Zbook 17 G6, Intel Realsense D435i, 
