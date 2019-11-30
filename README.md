@@ -1,5 +1,5 @@
 # - Project Auto Explanation
-* ## We make ADAS.
+* ### We make ADAS.
 
 # - Developer
 * ### 하재창 (Ha Jae Chang, Project Manager)
