@@ -2,14 +2,14 @@
 * ## We make ADAS.
 
 # - Developer
-* ## 하재창 (Ha Jae Chang, Project Manager)
-  * ### Simulator Analysis, ROS, Object Detection, RC Car
+* ### 하재창 (Ha Jae Chang, Project Manager)
+  * #### Simulator Analysis, ROS, Object Detection, RC Car
   
-* ## 김상민 (Kim Sang Min)
-  * ### Simulator Analysis, Unity Simulator Map Maker, OpenCV, Lane Detection
+* ### 김상민 (Kim Sang Min)
+  * #### Simulator Analysis, Unity Simulator Map Maker, OpenCV, Lane Detection
   
-* ## 안현수 (Ahn Hyun Soo)
-  * ### Object Detection
+* ### 안현수 (Ahn Hyun Soo)
+  * #### Object Detection
   
 # - Development Environment
 * ### OS, Simulator(SW)
