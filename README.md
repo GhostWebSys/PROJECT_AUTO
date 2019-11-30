@@ -1,7 +1,7 @@
-# Project Auto Explanation
+# - Project Auto Explanation
 * ## We make ADAS.
 
-# Developer
+# - Developer
 * ## 하재창 (Ha Jae Chang, Project Manager)
   * ### Simulator Analysis, ROS, Object Detection, RC Car
   
@@ -11,7 +11,7 @@
 * ## 안현수 (Ahn Hyun Soo)
   * ### Object Detection
   
-# Development Environment
+# - Development Environment
 * ### OS, Simulator(SW)
   * #### Ubuntu 18.04 LTS 64bit
   * #### TODO Simulator (ver 2019.10)
