@@ -1,4 +1,4 @@
-# - Project Auto Explanation
+- # Project Auto Explanation
 * ## We make ADAS.
 
 # - Developer
