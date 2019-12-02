@@ -1,0 +1,5 @@
+#! /usr/bin/env python
+import project_auto_packages.SimControl
+
+if __name__ == '__main__':
+    project_auto_packages.SimControl.main()
