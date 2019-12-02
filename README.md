@@ -19,7 +19,7 @@
 # Development Environment
 * ### OS / Simulator / SW
   * #### Ubuntu 18.04 LTS 64bit
-  * #### LG-SVL Simulator (Ver 2019.10)
+  * #### LGSVL Simulator (Ver 2019.10)
   * #### ROS1 Melodic
   * #### C++, Python 3.6 (rospkg, numpy, opencv-python)
   * #### OpenCV 3.3.0
