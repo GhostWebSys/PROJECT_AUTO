@@ -1,6 +1,9 @@
 # Introduce
 * ### We make ADAS(Advanced Driver Assistance Systems).
 * ### If detected object(person, car, traffic object) in my lane we control stop the car.
+* ### [Demo Video (Youtube)](https://youtu.be/x-xYjhmMnmA)
+[<img src="https://img.youtube.com/vi/x-xYjhmMnmA/maxresdefault.jpg" width="100%">](https://youtu.be/x-xYjhmMnmA)  
+
 
 # Developer
 * ### 하재창 (Ha Jae Chang / Project Manager)
@@ -10,8 +13,9 @@
   * #### Simulator Analysis, Unity Simulator Map Maker, OpenCV, Lane Detection
   
 * ### 안현수 (Ahn Hyun Soo)
-  * #### Object Detection, Lidar, Sensor Analysis
-  
+  * #### Object Detection, Lidar, Sensor Analysis  
+
+
 # Development Environment
 * ### OS / Simulator / SW
   * #### Ubuntu 18.04 LTS 64bit
@@ -34,5 +38,9 @@
     * #### Lidar : LDS-01
     * #### Etc : DC Motor, Servo Motor, Logitech Joystick F710, Battery, USB3.0 Hub
 
+
 # Reference
-* ### RC Car Control : https://github.com/jainovation
+* ### LGSVL
+  * ### [LGSVL Github](https://github.com/lgsvl)
+  * ### [LGSVL Simulator Docs](https://www.lgsvlsimulator.com/docs/)
+* ### RC Car Control Part : [jainovation Github](https://github.com/jainovation)
