@@ -23,6 +23,7 @@
   * #### ROS1 Melodic
   * #### C++, Python 3.6 (rospkg, numpy, opencv-python)
   * #### OpenCV 3.3.0
+  * #### CUDA 10.0
   * #### Darknet Yolo3, Yolo3-tiny
   * #### xdotool
   
