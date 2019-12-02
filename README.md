@@ -2,7 +2,7 @@
 * ### We make ADAS(Advanced Driver Assistance Systems).
 * ### If detected object(person, car, traffic object) in my lane we control stop the car.
 * ### [Demo Video (Youtube)](https://youtu.be/x-xYjhmMnmA)
-[<img src="https://img.youtube.com/vi/x-xYjhmMnmA/maxresdefault.jpg" width="100%">](https://youtu.be/x-xYjhmMnmA)  
+[<p align="center"><img src="https://img.youtube.com/vi/x-xYjhmMnmA/maxresdefault.jpg" width="90%"></p>](https://youtu.be/x-xYjhmMnmA)
 
 
 # Developer
