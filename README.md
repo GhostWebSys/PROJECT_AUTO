@@ -6,11 +6,13 @@
 
 
 # Developer
-* ### 하재창 (Ha Jae Chang / Project Manager)
+* ### [하재창 (Ha Jae Chang / Project Manager)](https://github.com/GhostWebSys)
   * #### Simulator Analysis, ROS, OpenCV, Deep Learning(Lane/Object Detection), Sensor Analysis, RC Car
+  * #### github : [https://github.com/GhostWebSys](https://github.com/GhostWebSys)
   
-* ### 김상민 (Kim Sang Min)
+* ### [김상민 (Kim Sang Min)](https://github.com/archekalos)
   * #### Simulator Analysis, Unity Simulator Map Maker, OpenCV, Lane Detection
+  * #### github : [https://github.com/archekalos](https://github.com/archekalos)
   
 * ### 안현수 (Ahn Hyun Soo)
   * #### Object Detection, Lidar, Sensor Analysis  
